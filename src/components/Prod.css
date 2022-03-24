@@ -1,0 +1,30 @@
+.pdt img{
+    width: 100%;
+}
+.div{
+    padding: 8px;
+}
+.pdt{
+    border: 1px solid #8080802d;
+    /* position: relative; */
+    background-color: rgba(0, 0, 0, 0.048);
+}
+button{
+    width: 100%;
+    background-color:  #ff634765;
+      border: 1px solid rgba(255, 99, 71, 0.247);
+    /* position: absolute;
+    bottom: 0; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button p{
+    margin-right: 5px;
+}
+button:hover{
+    background-color:  #f15728b7;
+}
+.inf p{
+    padding: 0 10px;
+}

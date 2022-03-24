@@ -1,0 +1,10 @@
+.is h2{
+    text-align: center;
+}
+.is p,h5{
+    padding: 0 10px;
+}
+.is{
+    position: sticky;
+    top: 0;
+}

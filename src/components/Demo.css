@@ -1,0 +1,13 @@
+.dv{
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.in{
+    background-color: #f15728b7;
+}
+.pdc{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    padding: 30px;
+}
